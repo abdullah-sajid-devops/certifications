@@ -10,8 +10,8 @@ Part of my [100 Days DevOps & Cloud Engineering Challenge](https://github.com/ab
 
 | Certificate | Issuer | Score | Date | Credential |
 |---|---|---|---|---|
-| NDG Linux Unhatched | Cisco Networking Academy | 90% | July 2026 | [View](cisco-linux-unhatched/) |
-| Linux Essentials | Cisco Networking Academy | Completed | August 2026 | [View](cisco-linux-essentials/) |
+| NDG Linux Unhatched | Cisco Networking Academy | 90% | July 2026 | [Certificate](cisco-linux-unhatched-certificate.png) · [Badge](cisco-linux-unhatched-badge.png) |
+| Linux Essentials | Cisco Networking Academy | Completed | August 2026 | [Certificate](cisco-linux-essentials-certificate.png) · [Badge](cisco-linux-essentials-badge.png) |
 
 ---
 
